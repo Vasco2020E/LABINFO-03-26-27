@@ -1,0 +1,29 @@
+    1   git status
+    2   git add identificacao.txt 
+    3   git status
+    4   git commit -m "Tarefa 1: adiciona o ficheiro de identificação"
+    5   git push
+    6   mkdir A141030
+    7   touch README.md
+    8   history > cmdstask2.txt
+    9   git commit -m "2.ª tarefa concluída"
+    10  git push
+    11  git clone https://github.com/Vasco2020E/LABINFO-03-26-27.git
+    12  cd LABINFO-03-26-27/
+    13  git add .
+    14  git status
+    15  git commit -m "3.ª tarefa concluída"
+    16  git push
+    17  git status
+    18  git add .
+    19  git commit -m "4.ª tarefa: adiciona navegação e conteúdo à página inicial"
+    20  git push
+    21  git add .
+    22  git commit -m "Cria disciplina.html a partir de index.html"
+    23  git push
+    24  git status
+    25  git add .
+    26  git status
+    27  git commit -m "5.ª tarefa cumprida"
+    28  git push
+    29  git pull
