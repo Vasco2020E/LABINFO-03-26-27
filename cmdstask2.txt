@@ -1,0 +1,8 @@
+    1  git status
+    2  git add identificacao.txt 
+    3  git status
+    4  git commit -m "Tarefa 1: adiciona o ficheiro de identificação"
+    5  git push
+    6  mkdir A141030
+    7  touch README.md
+    8  history > cmdstask2.txt
